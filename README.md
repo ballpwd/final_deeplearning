@@ -5,7 +5,9 @@
 - Go to http://localhost:5000
 - Done! :tada:
 
+------------------------------------------------------------
 
+Demo : https://deepclassification.herokuapp.com/
 
 
 
